@@ -12,6 +12,8 @@ With 69K number of parameters, the performance in MNIST dataset is 98.4%.
 ## Usage
 
 ```python
+from src.efficient_kan import KANConv2D
+
 KANConv2D(in_channels,
         out_channels,
         kernel_size=3,

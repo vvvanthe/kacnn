@@ -1,4 +1,4 @@
-# Convolutional Kolmogorov-Arnold Neural Network (Convolutional KAN Layer)
+# Convolutional Kolmogorov-Arnold Neural Network (KACNN) and KAN Convolutional Layer (KANConv2D)
 
 This repository contains an Pytorch implementation of Kolmogorov-Arnold Convolutional Neural Network (KACNN). 
 

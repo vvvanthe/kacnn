@@ -1,4 +1,4 @@
-# Convolutional Kolmogorov-Arnold Neural Network (KACNN) and KAN Convolutional Layer (KANConv2D)
+# Kolmogorov-Arnold Convolutional Neural Network (KACNN) and KAN Convolutional Layer (KANConv2D)
 
 ## **Implementation of the Kolmogorov-Arnold Network Convolutional layer in PyTorch**
 
@@ -7,7 +7,7 @@ This repository contains an Pytorch implementation of Kolmogorov-Arnold Convolut
 
 ## Description
 
-We proposed a Convolutional KAN Layer (KANConv2D) using a kernel of the B_spline function matrix instead of a real number matrix in conventional CNN. Additionally, some modification is needed to adapt to the convolution function.
+We proposed a KAN Convolutional Layer (KANConv2D) using a kernel of the B_spline function matrix instead of a real number matrix in conventional CNN. Additionally, some modification is needed to adapt to the convolution function.
 
 Based on `KANConv2D` and `KANLinear`, we developed a Kolmogorov-Arnold Convolutional Neural Network for object classification.
 
